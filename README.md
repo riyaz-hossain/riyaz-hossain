@@ -31,11 +31,6 @@
 <br />
 <img width="555px" alt="Riyaz Hossain Github Stats"  src="https://github-readme-stats.vercel.app/api?username=riyaz-hossain&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaz-khan-shuvo&card_width=555)](https://github.com/riyaz-hossain/riyaz-hossain)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=riyaz-hossain&card_width=555)](https://github.com/riyaz-hossain/riyaz-hossain)
 
 
-
-[webdevplaylist]: https://riyaz-khan-shuvo.netlify.app/
-[jsplaylist]: https://riyaz-khan-shuvo.netlify.app/
-[cssplaylist]: https://riyaz-khan-shuvo.netlify.app/
-[reactplaylist]: https://riyaz-khan-shuvo.netlify.app/
